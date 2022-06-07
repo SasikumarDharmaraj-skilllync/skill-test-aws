@@ -25,7 +25,7 @@ const Header = (props) => {
                                         </li>
                                     ))}
                                 </ul>
-                                <Button className="book_demo_btn" value="Book a Free Demo to sasi" />
+                                <Button className="book_demo_btn" value="Book a Free Demo" />
                                 <Button className="login_btn login_align" value="login" />
                             </div>
                         </div>
